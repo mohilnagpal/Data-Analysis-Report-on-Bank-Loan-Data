@@ -11,11 +11,14 @@ Analyzed education status and account holder information of customers.
 
 Plotted Relations between different aspects of data and the customer's appetite for taking a personal loan.
 
-Used t-test to test the hypothesis with the help of Scipy Library
-to answer:
+Used t-test to test the hypothesis with the help of Scipy Library,
+
+to answer :
 
 --> the impact of income on a customers appetite to take on loan.
+
 --> the relation between the age of the customer and it's willingness to take on loan.
+
 --> if or not the number of members in the family influence the customer's decision to take a loan. 
 
 Created heatmaps, plots visualizing and comparing lifestyles of
