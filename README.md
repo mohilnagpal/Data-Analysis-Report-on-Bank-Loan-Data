@@ -5,7 +5,7 @@ libraries like Seaborn, Matplotlib and Plotly by plotting bar charts, pie charts
 
 Pre-processed data by removing negative experience values and dropping columns not required for analysis.
 
-Plotted Correlation Heatmap between different features of data. Correlation is the dependance of two variables with each other. 
+Plotted Correlation Heatmap between different features of data. (Correlation is the dependance of variables with each other) 
 
 Analyzed education status and account holder information of customers.
 
@@ -21,5 +21,5 @@ to answer :
 
 --> if or not the number of members in the family influence the customer's decision to take a loan. 
 
-Created heatmaps, plots visualizing and comparing lifestyles of
-different countries of the world and Indian cities on the basis of education and income.
+Created heatmaps, plots to visualize and compare lifestyles of
+different countries and Indian cities based on education and income.
