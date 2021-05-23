@@ -14,9 +14,9 @@ Plotted Relations between different aspects of data and the customer's appetite 
 Used t-test to test the hypothesis with the help of Scipy Library
 to answer:
 
-the impact of income on a customers appetite to take on loan.
-the relation between the age of the customer and it's willingness to take on loan.
-if or not the number of members in the family influence the customer's decision to take a loan. 
+--> the impact of income on a customers appetite to take on loan.
+--> the relation between the age of the customer and it's willingness to take on loan.
+--> if or not the number of members in the family influence the customer's decision to take a loan. 
 
 Created heatmaps, plots visualizing and comparing lifestyles of
 different countries of the world and Indian cities on the basis of education and income.
